@@ -8,4 +8,5 @@ In this repository,PID control is applied to twin rotor using brushless DC motor
 ### Manufacturing (Hardware)
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/163205385-effc2976-38ae-4d96-bc30-3f55af4b29ee.png" width="600" height="320" /></p>
 
-
+### Demo
+Full video is attached [Demo](https://drive.google.com/file/d/1obZJ-XlqPMnBDad9OIZ7d11CuDvxNuxv/view?usp=sharing)
